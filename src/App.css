@@ -1,0 +1,15 @@
+button.copy-icon {
+    position: absolute;
+    border: 0 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background: #eeffcb;
+    border-radius: 5px;
+    top: -20px;
+    right: -20px;
+}
+
+.alert.alert-dismissible { position: fixed; top: 66px; right: 10px; }
